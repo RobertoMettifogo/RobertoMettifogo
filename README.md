@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @RobertoMettifogo
-- 👀 I’m interested in coding
+- 👀 I love programming and meeting new people
 - 🌱 I’m currently learning game programming in DBGA
-- 💞️ I’m looking to collaborate on Unity projects
+- 💼 I've collaborated with designers and 3D artists on some projects
+- https://dearcowstudios.itch.io/enjoyyourrage
+- 💞️ I'm looking for collaboration on Unity projects
 - 📫 How to reach me .justroby on discord
 
 <!---
