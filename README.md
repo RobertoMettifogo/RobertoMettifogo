@@ -7,7 +7,8 @@
 - 📫 How to reach me .justroby on discord  
   [RobHtml](https://dearcowstudios.org/info/)
 -----
-<img src="https://i.ibb.co/fNyfyF4/DCS-vettoriale.png" alt="Logo DCS" width="200"/>
+<img src="https://i.ibb.co/fNyfyF4/DCS-vettoriale.png" alt="Logo DCS" width="200" style="background-color: black; padding: 10px;">
+
 <!---
 RobertoMettifogo/RobertoMettifogo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
