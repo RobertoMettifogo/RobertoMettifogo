@@ -19,6 +19,7 @@ Here my certifications:
 <img src="https://connect-prd-cdn.unity.com/20201006/learn/images/c0738a29-fb1a-4bc1-8cb1-95d47762a2cc_03_Unity_Engine_Essentialls_Mission.png.1800x0x1.webp" alt="Badge4" width="100">
   
  <img src="https://i.ibb.co/Ng0X8bG/Roberto-Mettifogo.jpg" alt="DBGALV1" width="300">
+ <img src="https://ibb.co/m5QXVrj" alt="DBGALV2" width="300">
 
 <!---
 RobertoMettifogo/RobertoMettifogo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
