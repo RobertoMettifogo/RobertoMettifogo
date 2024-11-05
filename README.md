@@ -15,7 +15,7 @@ Here my certifications:
 <img src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" alt="Badge3" width="100">
 <img src="https://connect-prd-cdn.unity.com/20201006/learn/images/c0738a29-fb1a-4bc1-8cb1-95d47762a2cc_03_Unity_Engine_Essentialls_Mission.png.1800x0x1.webp" alt="Badge4" width="100">
   
- <img src="https://ibb.co/526nQHX" alt="DBGALV1" width="300">
+ <img src="[https://ibb.co/526nQHX](https://i.ibb.co/Ng0X8bG/Roberto-Mettifogo.jpg)" alt="DBGALV1" width="300">
  <img src="https://ibb.co/m5QXVrj" alt="DBGALV2" width="300">
 
 <!---
